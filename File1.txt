@@ -1,0 +1,1 @@
+I've added text to make second commit to feature branch
